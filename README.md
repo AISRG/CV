@@ -1,2 +1,2 @@
 # CV
-Repository for Computer Vision (CV) related topics.
+Repository for Computer Vision related topics.
